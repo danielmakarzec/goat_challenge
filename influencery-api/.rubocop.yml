@@ -1,0 +1,11 @@
+require: rubocop-rails
+AllCops:
+    SuggestExtensions: false
+    EnabledByDefault: true
+Style/Copyright:
+    Enabled: false
+    AutocorrectNotice: ''
+Lint/ConstantResolution: 
+    Enabled: false
+Style/FrozenStringLiteralComment:    
+    Enabled: false
